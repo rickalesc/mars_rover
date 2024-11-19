@@ -1,0 +1,40 @@
+# Node.js modules
+/node_modules/
+
+# Build output
+/dist/
+/build/
+
+# Local environment files
+/.env
+/.env.local
+/.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/.vite/
+/.vite/
+
+# IDE and OS-specific files
+.vscode/
+/.idea/
+/.DS_Store
+Thumbs.db
+
+# Vite-specific
+vite.cache/
+
+# Optional: If you use ESLint or Prettier config locally
+/.eslintcache
+/.prettiercache
+
+# Optional: If you have storybook or similar tools for testing
+/.storybook/
+
+# Test coverage directories
+/coverage/
